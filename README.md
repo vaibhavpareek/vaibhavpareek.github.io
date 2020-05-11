@@ -25,10 +25,10 @@ cat >> vaibhav_ideology.sh
 ### cat >> organizations.sh
 - CompTIA (Campus Ambassador)
 - CyberHack (Technical Head)
+```markdown
 
 ### Installing Languages......
 
-```markdown
 # Downloading.......
 💢Python 💢CPP 💢 Java 💢 PHP
 
