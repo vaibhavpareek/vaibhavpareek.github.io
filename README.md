@@ -20,8 +20,8 @@ cat >> vaibhav_ideology.sh
 - [SpringerNature](https://www.springernature.com/in/info/disclosure)
 - [Orged](https://orged.de/bug-bountry/hall-of-fame)
 - [DutchDare](https://www.dutchdare.nl/index.php/hall-of-fame/)
-- [The Internet Things]
-- [Zivver]
+- [The Internet Things]()
+- [Zivver]()
 
 
 
