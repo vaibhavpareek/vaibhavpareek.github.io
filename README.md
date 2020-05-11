@@ -15,6 +15,7 @@ cat >> vaibhav_ideology.sh
 ✅IBM Cloud        ✅Linux Server Management   🆕Node-Red Automation 
 ✅DevOps           ✅Cyber Security            ✅ACL Management,
 ✅IBM Watson       ✅Web Development.
+```
 
 ### cat >> web_experience.sh 
 - [www.buzzintely.com](http://buzzintely.com/)
@@ -25,11 +26,12 @@ cat >> vaibhav_ideology.sh
 ### cat >> organizations.sh
 - CompTIA (Campus Ambassador)
 - CyberHack (Technical Head)
-```markdown
 
+```markdown
 ### Installing Languages......
 
 # Downloading.......
 💢Python 💢CPP 💢 Java 💢 PHP
+```
 
 ### Contact @vaibhavpareekvp7@gmail.com
