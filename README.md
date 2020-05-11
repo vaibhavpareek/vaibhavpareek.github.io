@@ -12,10 +12,18 @@ cat >> vaibhav_ideology.sh
 ```markdown
 # Collecting.......
 ✅Machine Learning ✅Computer Vision          ✅Feature Selection Automation 
-✅IBM Cloud        ✅Linux Server Management   🆕Node-Red Automation 
-✅DevOps           ✅Cyber Security            ✅ACL Management,
-✅IBM Watson       ✅Web Development.
+✅IBM Cloud        ✅Linux Server Management  🆕Node-Red Automation 
+✅DevOps           ✅Cyber Security           ✅ACL Management
+✅IBM Watson       ✅Web Development
 ```
+### cat >> vulnerability_reported.sh
+- [SpringerNature](https://www.springernature.com/in/info/disclosure)
+- [Orged](https://orged.de/bug-bountry/hall-of-fame)
+- [DutchDare](https://www.dutchdare.nl/index.php/hall-of-fame/)
+- [The Internet Things]
+- [Zivver]
+
+
 
 ### cat >> web_experience.sh 
 - [www.buzzintely.com](http://buzzintely.com/)
@@ -28,7 +36,7 @@ cat >> vaibhav_ideology.sh
 - CyberHack (Technical Head)
 
 ```markdown
-### Installing Languages......
+# Installing Languages......
 
 # Downloading.......
 💢Python 💢CPP 💢 Java 💢 PHP
