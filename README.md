@@ -1,9 +1,9 @@
 ## Welcome to Vaibhav Binary : chmod +x ./vaibhavpareek -> Task Completed.. 
-<img src="vaibhav.jpeg" style="height:30% !important;width:15% !important;border-radius:50%; !important">
+<img src="vaibhav.jpeg" style="height:30% !important;width:25% !important;border-radius:50%; !important">
 <p style="color:#000034;">
 <strong>👀Vaibhav</strong> is a team player and developer who has experience of about 3 years of working in multiple technologies, programming languages and building projects. </p>
 
-## cat >> vaibhav_ideology.sh
+### cat >> vaibhav_ideology.vp
 
 💯Vaibhav believes the best way to learn anything is by implementing that in real-life scenarios through a 🔃PROJECT. So, he always learn anything by implementing technologies mentioned above in projects. 
 
