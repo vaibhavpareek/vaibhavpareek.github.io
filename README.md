@@ -62,38 +62,38 @@
 <div class="mySlides fade">
   <div class="numbertext">1 / 7</div>
   <img src="images/cyberhack.jpg" style="width:100%">
-  <div class="text">CyberHack-LoopHole Event</div>
+  <div class="text" style="color:black;">CyberHack-LoopHole Event</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 7</div>
   <img src="images/amcatvaibhav.png" style="width:100%">
-  <div class="text">Amcat Certificate</div>
+  <div class="text" style="color:black;">Amcat Certificate</div>
 </div>
 <div class="mySlides fade">
   <div class="numbertext">3 / 7</div>
   <img src="images/docker-1.png" style="width:100%">
-  <div class="text">Docker Training Certificate</div>
+  <div class="text" style="color:black;">Docker Training Certificate</div>
 </div>
 <div class="mySlides fade">
   <div class="numbertext">4 / 7</div>
   <img src="images/comptia.jpeg" style="width:100%">
-  <div class="text">CompTIA Memories</div>
+  <div class="text" style="color:black;">CompTIA Memories</div>
 </div>
 <div class="mySlides fade">
   <div class="numbertext">5 / 7</div>
   <img src="images/iscp.png" style="width:100%">
-  <div class="text">ISCP Certificate</div>
+  <div class="text" style="color:black;">ISCP Certificate</div>
 </div>
 <div class="mySlides fade">
   <div class="numbertext">6 / 7</div>
   <img src="images/comp.jpeg" style="width:100%">
-  <div class="text">CompTIA</div>
+  <div class="text" style="color:black;">CompTIA</div>
 </div>
 <div class="mySlides fade">
   <div class="numbertext">7 / 7</div>
   <img src="images/Lumuslabs-1.png" style="width:100%">
-  <div class="text">LumusLabs RVDP</div>
+  <div class="text" style="color:black;">LumusLabs RVDP</div>
 </div>
 
 
