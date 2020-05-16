@@ -1,7 +1,8 @@
 ## Welcome to Vaibhav Binary : chmod +x ./vaibhavpareek -> Task Completed.. 
+ <link rel="stylesheet" type="text/css" href="css/main.css">
 <img src="vaibhav.jpeg" style="height:30% !important;width:25% !important;border-radius:50%; !important">
-<p style="color:#000034;">
-<strong>👀Vaibhav</strong> is a team player and developer who has experience of about 3 years of working in multiple technologies, programming languages and building projects. </p>
+<h4>
+<strong>👀Vaibhav</strong> is a team player and developer who has experience of about 3 years of working in multiple technologies, programming languages and building projects. </h4>
 
 ### cat >> vaibhav_ideology.vp
 
@@ -53,5 +54,39 @@
 # Downloading.......
 💢Python 💢CPP 💢 Java 💢 PHP
 ```
+
+<div class="slideshow-container">
+
+<div class="mySlides fade">
+  <div class="numbertext">1 / 3</div>
+  <img src="img_nature_wide.jpg" style="width:100%">
+  <div class="text">Caption Text</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">2 / 3</div>
+  <img src="img_snow_wide.jpg" style="width:100%">
+  <div class="text">Caption Two</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">3 / 3</div>
+  <img src="img_mountains_wide.jpg" style="width:100%">
+  <div class="text">Caption Three</div>
+</div>
+
+<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+<a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+</div>
+<br>
+
+<div style="text-align:center">
+  <span class="dot" onclick="currentSlide(1)"></span> 
+  <span class="dot" onclick="currentSlide(2)"></span> 
+  <span class="dot" onclick="currentSlide(3)"></span> 
+</div>
+
+
 
 ### Contact @vaibhavpareekvp7@gmail.com
