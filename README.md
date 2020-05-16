@@ -1,5 +1,6 @@
 ## Welcome to Vaibhav Binary : chmod +x ./vaibhavpareek -> Task Completed.. 
  <link rel="stylesheet" type="text/css" href="css/main.css">
+<script src="js/main.js">
 <img src="vaibhav.jpeg" style="height:30% !important;width:25% !important;border-radius:50%; !important">
 <h4>
 <strong>👀Vaibhav</strong> is a team player and developer who has experience of about 3 years of working in multiple technologies, programming languages and building projects. </h4>
