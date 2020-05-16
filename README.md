@@ -59,7 +59,7 @@
 
 <div class="slideshow-container">
 
-<div class="mySlides fade">
+<div class="mySlides fade active">
   <div class="numbertext">1 / 7</div>
   <img src="images/cyberhack.jpg" style="width:100%">
   <div class="text" style="color:black;">CyberHack-LoopHole Event</div>
