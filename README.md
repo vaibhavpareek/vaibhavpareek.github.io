@@ -1,5 +1,5 @@
 ## Welcome to Vaibhav Binary : chmod +x ./vaibhavpareek -> Task Completed.. 
-<img src="vaibhav.jpeg" style="height:50%;width:35%;border-radius:50%;">
+<img src="vaibhav.jpeg" style="height:50% !important;width:35% !important;border-radius:50%; !important">
 👀Vaibhav is a team player and developer who has experience of about 3 years of working in multiple technologies, programming languages and building projects. 
 
 ## cat >> vaibhav_ideology.sh
