@@ -1,8 +1,8 @@
 ## Welcome to Vaibhav Binary : chmod +x ./vaibhavpareek -> Task Completed..
+[![version](https://img.shields.io/badge/version-1.0.1-red.svg)](https://vaibhavpareek.github.io)
 <img src="vaibhav.jpeg" style="height:30% !important;width:25% !important;border-radius:50%; !important"> 
 <img src="https://avatars0.githubusercontent.com/u/37809497?s=460&u=849fd1e2be63f7fd3d72b25d8f48ccf09a3c474c&v=4" style="height:50% !important;width:35% !important;border-radius:50%; !important;float:right">
 <link rel="stylesheet" type="text/css" href="css/main.css">
-<script src="js/main.js"></script>
 <h3>
 <strong>👀Vaibhav</strong> is a team player and developer who has experience of about 3 years of working in multiple technologies, programming languages and building projects. </h3>
 
@@ -56,7 +56,6 @@
 # Downloading.......
 💢Python 💢CPP 💢 Java 💢 PHP
 ```
-<script>showSlides();</script>
 <div class="slideshow-container">
 
 <div class="mySlides fade">
@@ -109,7 +108,21 @@
   <span class="dot" ></span>
   <span class="dot" ></span>
 </div>
+<script>
+var slideIndex = 0;
+showSlides();
 
-
+function showSlides() {
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  for (i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";
+  }
+  slideIndex++;
+  if (slideIndex > slides.length) {slideIndex = 1}
+  slides[slideIndex-1].style.display = "block";
+  setTimeout(showSlides, 2000); // Change image every 2 seconds
+} 
+</script>
 
 ### Contact @vaibhavpareekvp7@gmail.com
