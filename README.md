@@ -56,7 +56,7 @@
 # Downloading.......
 💢Python 💢CPP 💢 Java 💢 PHP
 ```
-
+<script>showSlides();</script>
 <div class="slideshow-container">
 
 <div class="mySlides fade">
