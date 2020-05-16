@@ -1,6 +1,6 @@
 ## Welcome to Vaibhav Binary : chmod +x ./vaibhavpareek -> Task Completed..
 <img src="vaibhav.jpeg" style="height:30% !important;width:25% !important;border-radius:50%; !important"> 
-<img src="https://avatars0.githubusercontent.com/u/37809497?s=460&u=849fd1e2be63f7fd3d72b25d8f48ccf09a3c474c&v=4" style="height:30% !important;width:25% !important;border-radius:50%; !important;float:right">
+<img src="https://avatars0.githubusercontent.com/u/37809497?s=460&u=849fd1e2be63f7fd3d72b25d8f48ccf09a3c474c&v=4" style="height:50% !important;width:35% !important;border-radius:50%; !important;float:right">
 <link rel="stylesheet" type="text/css" href="css/main.css">
 <script src="js/main.js"></script>
 <h3>
@@ -61,13 +61,13 @@
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 3</div>
-  <img src="amcatvaibhav.png" style="width:100%">
+  <img src="images/amcatvaibhav.png" style="width:100%">
   <div class="text">Caption Text</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 3</div>
-  <img src="amcatvaibhav.png" style="width:100%">
+  <img src="images/amcatvaibhav.png" style="width:100%">
   <div class="text">Amcat Certificate</div>
 </div>
 
