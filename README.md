@@ -1,5 +1,5 @@
 ## Welcome to Vaibhav Binary : chmod +x ./vaibhavpareek -> Task Completed.. 
-![Vaibhav Pareek](img/vaibhav.jpg)
+![Vaibhav Pareek](vaibhav.jpeg)
 
 👀Vaibhav is a team player and developer who has experience of about 3 years of working in multiple technologies, programming languages and building projects. 
 
