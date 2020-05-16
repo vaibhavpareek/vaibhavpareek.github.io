@@ -92,7 +92,7 @@
 </div>
 <div class="mySlides fade">
   <div class="numbertext">7 / 7</div>
-  <img src="images/LumusLabs-1.png" style="width:100%">
+  <img src="images/Lumuslabs-1.png" style="width:100%">
   <div class="text">LumusLabs RVDP</div>
 </div>
 
