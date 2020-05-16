@@ -1,5 +1,6 @@
 ## Welcome to Vaibhav Binary : chmod +x ./vaibhavpareek -> Task Completed..
 [![version](https://img.shields.io/badge/version-1.0.1-red.svg)](https://vaibhavpareek.github.io)
+
 <img src="vaibhav.jpeg" style="height:30% !important;width:25% !important;border-radius:50%; !important"> 
 <img src="https://avatars0.githubusercontent.com/u/37809497?s=460&u=849fd1e2be63f7fd3d72b25d8f48ccf09a3c474c&v=4" style="height:50% !important;width:35% !important;border-radius:50%; !important;float:right">
 <link rel="stylesheet" type="text/css" href="css/main.css">
