@@ -10,7 +10,7 @@
 
 ### cat >> vaibhav_ideology.vp
 
-💯Vaibhav believes the best way to learn anything is by implementing that in real-life scenarios through a 🔃PROJECT. So, he always learn anything by implementing technologies mentioned above in projects. 
+💯Vaibhav believes the best way to learn anything is by implementing that in real-life scenarios through a 🔃PROJECT. So, he always learn anything by implementing technologies mentioned below in projects. 
 
 
 ### Installing Libraries......
@@ -28,11 +28,18 @@
 - [DocSec - Docker Vault for Encrypting Secrets](https://github.com/vaibhavpareek/DocSec)
 - [Vulnorator - Footprinting Tool](https://github.com/vaibhavpareek/vulnorator)
 
+
 ### cat >> certifications.vp
 - [Information Security Certified Professional - Krademy under TCOE India](https://www.linkedin.com/in/vaibhavvp/detail/treasury/position:1476477697/?entityUrn=urn%3Ali%3Afsd_profileTreasuryMedia%3A(ACoAACO628kBsGtn5bvzo4nf9ZFH9uQQwAVKymw%2C1565839138630)&section=position%3A1476477697&treasuryCount=4)
 - [AMCAT Examination Report](https://www.linkedin.com/in/vaibhavvp/detail/treasury/education:441762257/?entityUrn=urn%3Ali%3Afsd_profileTreasuryMedia%3A(ACoAACO628kBsGtn5bvzo4nf9ZFH9uQQwAVKymw%2C1589516882718)&section=education%3A441762257&treasuryCount=1)
 - [Expertise in Docker(Training + Project) - IIEC Community under Mr. Vimal Daga](https://drive.google.com/file/d/1QrjaVPLpuEhh1xoZv6KmK2W4tvCOhgsb/view)
 - MLOPS(Applying Machine Learning in DevOps) (Training + Project) - Pursuing..
+
+
+### cat >> blogs.vp
+- [Medium - Technical Blog](https://medium.com/@vaibhavpareekvp7)
+- [GeeksForGeeks - Technical Articles](https://auth.geeksforgeeks.org/user/eternity_vaibhav/articles)
+- [Speakifyoucan - Non-Technical(Philosophical)](https://speakifyoucan.blogspot.com)
 
 
 ### cat >> vulnerability_reported.vp
