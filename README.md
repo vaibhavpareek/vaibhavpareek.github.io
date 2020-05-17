@@ -5,7 +5,7 @@
 <img src="images/vaibhav.png" style="height:70% !important;width:70!important;border-radius:50%; !important"> 
 <img src="https://avatars0.githubusercontent.com/u/37809497?s=460&u=849fd1e2be63f7fd3d72b25d8f48ccf09a3c474c&v=4" style="height:50% !important;width:35% !important;border-radius:50%; !important;float:right">
 <link rel="stylesheet" type="text/css" href="css/main.css">
-<h3 style="color:red;">
+<h3 style="color:#6a9fb5;">
 <strong>👀Vaibhav</strong> is a team player who likes to play with technology. He is trying to fulfill his wish of becoming the best Technocrat in the world. He loves automation in his works, playing with the codes, resolving errors, and contributing to other's work. A strong believer in <strong>"Let's Stop Believing, Start Exploring "🔓.</strong></h3>
 
 ### cat >> vaibhav_ideology.vp
@@ -61,41 +61,57 @@
 <div class="slideshow-container">
 
 <div class="mySlides fade">
-  <div class="numbertext">1 / 7</div>
+  <div class="numbertext">1 / 10</div>
   <img src="images/cyberhack.jpg" style="width:100%">
   <div class="text" style="color:black;">CyberHack-LoopHole Event</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">2 / 7</div>
+  <div class="numbertext">2 / 10</div>
   <img src="images/amcatvaibhav.png" style="width:100%">
   <div class="text" style="color:black;">Amcat Certificate</div>
 </div>
 <div class="mySlides fade">
-  <div class="numbertext">3 / 7</div>
+  <div class="numbertext">3 / 10</div>
   <img src="images/docker-1.png" style="width:100%">
   <div class="text" style="color:black;">Docker Training Certificate</div>
 </div>
 <div class="mySlides fade">
-  <div class="numbertext">4 / 7</div>
+  <div class="numbertext">4 / 10</div>
   <img src="images/comptia.jpeg" style="width:100%">
   <div class="text" style="color:black;">CompTIA Memories</div>
 </div>
 <div class="mySlides fade">
-  <div class="numbertext">5 / 7</div>
+  <div class="numbertext">5 / 10</div>
   <img src="images/iscp.png" style="width:100%">
   <div class="text" style="color:black;">ISCP Certificate</div>
 </div>
 <div class="mySlides fade">
-  <div class="numbertext">6 / 7</div>
+  <div class="numbertext">6 / 10</div>
   <img src="images/comp.jpeg" style="width:100%">
   <div class="text" style="color:black;">CompTIA</div>
 </div>
 <div class="mySlides fade">
-  <div class="numbertext">7 / 7</div>
+  <div class="numbertext">7 / 10</div>
   <img src="images/Lumuslabs-1.png" style="width:100%">
   <div class="text" style="color:black;">LumusLabs RVDP</div>
 </div>
+<div class="mySlides fade">
+  <div class="numbertext">8 / 10</div>
+  <img src="images/Letter-1.png" style="width:100%">
+  <div class="text" style="color:black;">Vulnorator Appreciation Letter</div>
+</div>
+<div class="mySlides fade">
+  <div class="numbertext">9 / 10</div>
+  <img src="images/vaibhavexploitdb.png" style="width:100%">
+  <div class="text" style="color:black;">Google Dork Published</div>
+</div>
+<div class="mySlides fade">
+  <div class="numbertext">10/ 10</div>
+  <img src="images/zivver.png" style="width:100%">
+  <div class="text" style="color:black;">Zivver Letter</div>
+</div>
+
 
 
 </div>
