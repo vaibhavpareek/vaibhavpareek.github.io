@@ -1,11 +1,12 @@
 ## Welcome to Vaibhav Binary : chmod +x ./vaibhavpareek -> Task Completed..
 [![version](https://img.shields.io/badge/version-1.0.1-red.svg)](https://vaibhavpareek.github.io)
+[![Linkedin](https://img.shields.io/badge/Linkedin-Vaibhav_Pareek-<COLOR>.svg)](https://www.linkedin.com/in/vaibhavvp/)
 
 <img src="images/vaibhav.png" style="height:70% !important;width:70!important;border-radius:50%; !important"> 
 <img src="https://avatars0.githubusercontent.com/u/37809497?s=460&u=849fd1e2be63f7fd3d72b25d8f48ccf09a3c474c&v=4" style="height:50% !important;width:35% !important;border-radius:50%; !important;float:right">
 <link rel="stylesheet" type="text/css" href="css/main.css">
-<h3>
-<strong>👀Vaibhav</strong> is a team player and developer who has experience of about 3 years of working in multiple technologies, programming languages and building projects. </h3>
+<h3 style="color:red;">
+<strong>👀Vaibhav</strong> is a team player who likes to play with technology. He is trying to fulfill his wish of becoming the best Technocrat in the world. He loves automation in his works, playing with the codes, resolving errors, and contributing to other's work. A strong believer in <strong>"Let's Stop Believing, Start Exploring "🔓.</strong></h3>
 
 ### cat >> vaibhav_ideology.vp
 
