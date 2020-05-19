@@ -54,6 +54,7 @@
 - [www.vanisco.in](https://vanisco.in)
 - [www.apartmentsinbarbados.eu](https://www.apartmentsinbarbados.eu/)
 - [www.sleenaindia.com](https://sleenaindia.com/)
+- [www.c4you.in](https://c4you.in)
 
 ### cat >> organizations.vp
 - [CompTIA (Campus Ambassador)](https://www.comptia.org/contact-us/regional-sites/comptia-india)
